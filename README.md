@@ -1,4 +1,4 @@
-# General-to-Specific Subsumption Learning for Audio-Visual Generalized Zero-Shot Learning
+# Cue-to-Context Subsumption Learning for Audio-Visual Generalized Zero-Shot Learning
 This repository is the official implementation.
 <p float="left">
   <img src="box.png" width="58%" />
